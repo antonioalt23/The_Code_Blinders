@@ -44,21 +44,21 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 
 ## **Semana 3**
 | Fecha | Día | Horario | Tema | Subtema | 
-| ----- | --- | ------- | ---- |--------|
+| ----- | --- | ------- | ---- | -------- |
 | 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy | Datatypes,Array creation |
-| 2 - 19 | Viernes | 6:00 - 8:00 | Numpy |  Indexing |
+| 2 - 19 | Viernes | 6:00 - 8:00 | Numpy | Indexing |
 
 
 ## **Semana 4**
 | Fecha | Día | Horario | Tema | Subtema |
-| ----- | --- | ------- | ---- |
+| ----- | --- | ------- | ---- | --- |
 | 2 - 24 | Miércoles |  6:00 - 8:00 | Numpy |Métodos en Numpy|
 | 2 - 26 | Viernes | 6:00 - 8:00 | Pandas | Series,Creacion de Dataframe|
 
 
 ## **Semana 5**
-| Fecha | Día | Horario | Tema |
-| ----- | --- | ------- | ---- |
+| Fecha | Día | Horario | Tema | Subtema |
+| ----- | --- | ------- | ---- | --- |
 | 3 - 03 | Miércoles |  6:00 - 8:00 |  Pandas| Indexing| 
 | 3 - 05 | Viernes | 6:00 - 8:00 | Pandas | Métodos y estadísticos en DataFrame| 
 
