@@ -86,7 +86,7 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 
 ## **Semana 9**
 | Fecha | Día | Horario | Tema | 
-| ----- | --- | ------- | ---- | --- |
+| ----- | --- | ------- | ---- | 
 | 3 - 31 | Miércoles |  6:00 - 8:00 | Mapas estáticos |
 | 4 - 02 | Viernes | 6:00 - 8:00 | Mapas dinámicos|
 
