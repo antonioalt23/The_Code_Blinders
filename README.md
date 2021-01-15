@@ -45,8 +45,8 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 ## **Semana 3**
 | Fecha | Día | Horario | Tema | Subtema |
 | ----- | --- | ------- | ---- |--------|
-| 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy | Datatypes,Array creation|
-| 2 - 19 | Viernes | 6:00 - 8:00 | Numpy |  Indexing|
+| 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy | Datatypes,Array creation |
+| 2 - 19 | Viernes | 6:00 - 8:00 | Numpy |  Indexing |
 
 
 ## **Semana 4**
