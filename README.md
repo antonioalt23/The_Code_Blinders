@@ -13,7 +13,7 @@
 **Instructor:** Kevin Basilio Santiago <br>
 
 ## **2. Cronograma**
-El programa comienza el miércoles 03 de ferbrero y finaliza el viernes 02 de abril. Las clases se realizarán virtualmente los dias miércoles y viernes, de 6:00 pm  a 8:00 pm , via plataforma zoom. El plan de estudios consta de 4 módulos:<br>
+El programa comienza el miércoles 03 de febrero y finaliza el viernes 02 de abril. Las clases se realizarán virtualmente los dias miércoles y viernes, de 6:00 pm  a 8:00 pm , via plataforma zoom. El plan de estudios consta de 4 módulos:<br>
 
 
 | MÓDULO | Fecha de inicio | Fecha final | Actividades |
