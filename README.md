@@ -3,7 +3,7 @@
 # Python Coding Bootcamp
 
 ## Objetivo
-[//]: <> (Este repositorio contiene los servicios web de google plataforms a su aplicacion de python ; para asi poder geolocalizar un lugar , buscar direcciones o matrices de) [//]: <> (direcciones . Para lo cual necesitaremos los conceptos basicos python como son el uso de listas,pandas,numpy,diccionarios,loops y funciones. Asimismo, el manejo de )
+[commment]: <> (Este repositorio contiene los servicios web de google plataforms a su aplicacion de python ; para asi poder geolocalizar un lugar , buscar direcciones o matrices de) [//]: <> (direcciones . Para lo cual necesitaremos los conceptos basicos python como son el uso de listas,pandas,numpy,diccionarios,loops y funciones. Asimismo, el manejo de )
 [//]: <> (github  y el uso de Jupyter.Para asi llegar a la geolocalizacion mediante el API de googlemaps y poder visulaizarlo mediantes mapas dinámicos.)
 
 ## **1. Encargados del Programa**
