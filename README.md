@@ -19,9 +19,10 @@ El programa comienza el miércoles 21 de octubre y finaliza el viernes 18  de di
 
 | MÓDULO | Fecha de inicio | Fecha final | Actividades |
 | ------ | --------------- | ----------- | ----------- | 
-| Primero | 21 de octubre  | 6 de noviembre | Github , Jupyter, Introduccion a Python |
-| Segundo | 11 de noviembre | 27 de noviembre | Loops y Funciones en Python | 
-| Tercero | 2 de diciembre | 18 de diciembre | Geolocalización con API Bing y Mapas Dinámicos |<br>
+| Primero | 3 de febrero | 12 de febrero | Github , Jupyter, Introduccion a Python |
+| Segundo | 17 de febrero | 05 de marzo | Numpy y Pandas | 
+| Tercero | 10 de marzo| 19 de marzo |Loops y Funciones en Python | 
+| Cuarto  | 24 de marzo | 02 de abril | Geolocalización con API Bing y Mapas Dinámicos |<br>
 
  
 A continuación se muestra un calendario resumido de temas.<br> Los horarios más detallados se encuentran en las respectivas páginas de horarios detallados de cada uno de los módulos y sus respectivas actividades .
@@ -31,64 +32,64 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 
 | Fecha | Día | Horario | Tema | Subtema | 
 | ----- | --- | ------- | ---- | -------| 
-| 10 - 21 | Miércoles | 6:00 - 8:00 | Github - Jupyter | Instalación |
-| 10 - 23   | Viernes | 6:00 - 8:00 | Introduccion a Python |*Tipo De Variables*.<br>- Float.<br>- String.<br>- Bool.  |
+| 2 - 03 | Miércoles | 6:00 - 8:00 | Github - Jupyter | Instalación |
+| 2 - 05   | Viernes | 6:00 - 8:00 | Introduccion a Python |*Tipo De Variables*.<br>- Float.<br>- String.<br>- Bool.  |
 
 
 ## **Semana 2**
 | Fecha | Día | Horario | Tema | Subtema | 
 | ----- | --- | ------- | ---- |--------|
-| 10 - 28 | Miércoles | 6:00 - 8:00 | Listas |*Listas*.<br>- Indice De Las Listas.<br>- Rebanado.<br>*Manipulación De Listas.*<br>- Append.<br>- Insert.<br>- Remove.<br>- Pop.| 
-| 10 - 30 | Viernes | 6:00 - 8:00 | Diccionarios | ~~tuplas, conjuntos~~|
+| 2 - 10 | Miércoles | 6:00 - 8:00 | Listas |*Listas*.<br>- Indice De Las Listas.<br>- Rebanado.<br>*Manipulación De Listas.*<br>- Append.<br>- Insert.<br>- Remove.<br>- Pop.| 
+| 2 - 12 | Viernes | 6:00 - 8:00 | Diccionarios | ~~tuplas, conjuntos~~|
 
 
 ## **Semana 3**
 | Fecha | Día | Horario | Tema | Subtema |
 | ----- | --- | ------- | ---- |--------|
-| 11 - 4 | Miércoles |  6:00 - 8:00 | Numpy |Numpy Subseting.<br>Numpy Arrays|
-| 11 - 6 | Viernes | 6:00 - 8:00 | Pandas | Series |
+| 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy |Numpy Subseting.<br>Numpy Arrays|
+| 2 - 19 | Viernes | 6:00 - 8:00 | Pandas | Series |
 
 
 ## **Semana 4**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 11 - 11 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 11 - 13 | Viernes | 6:00 - 8:00 | *funciones* | 
+| 2 - 24 | Miércoles |  6:00 - 8:00 | *funciones* |
+| 2 - 26 | Viernes | 6:00 - 8:00 | *funciones* | 
 
 
 ## **Semana 5**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 11 - 18 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 11 - 20 | Viernes | 6:00 - 8:00 | *funciones* | 
+| 3 - 03 | Miércoles |  6:00 - 8:00 | *funciones* |
+| 3 - 05 | Viernes | 6:00 - 8:00 | *funciones* | 
 
 
 ## **Semana 6**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 11 - 25 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 11 - 27 | Viernes | 6:00 - 8:00 | *funciones* | 
+| 3 - 10 | Miércoles |  6:00 - 8:00 | *funciones* |
+| 3 - 12 | Viernes | 6:00 - 8:00 | *funciones* | 
 
 
 ## **Semana 7**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 12 - 2 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 12 - 4 | Viernes | 6:00 - 8:00 | *mapas dinamicos* | 
+| 3 - 17 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
+| 3 - 19 | Viernes | 6:00 - 8:00 | *mapas dinamicos* | 
 
 
 ## **Semana 8**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 12 - 9 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 12 - 11 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
+| 3 - 24 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
+| 3 - 26 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
 
 
 ## **Semana 9**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 12 - 16 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 12 - 18 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
+| 3 - 31 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
+| 4 - 02 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
 
 
 Serán 9 semanas intensivas. Esperamos que su asistencia a conferencias más el tiempo de tarea sea un promedio de 60 horas por semana de trabajo.
