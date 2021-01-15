@@ -12,7 +12,7 @@
 **Instructor:** Antonio Altamirano Moya<br>
 **Instructor:** Kevin Basilio Santiago <br>
 
-## **2. Calendario**
+## **2. Cronograma**
 El programa comienza el miércoles 21 de octubre y finaliza el viernes 18  de diciembre. Las clases se realizarán virtualmente los dias miércoles y viernes, de 6:00 pm  a 8:00 pm , via plataforma zoom. El plan de estudios consta de 3 módulos:<br>
 
 
