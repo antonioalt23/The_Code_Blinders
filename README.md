@@ -8,10 +8,10 @@ Este repositorio contiene los servicios web de google plataforms a su aplicacion
 
 Este README.md sirve como programa y referencia para el campo de entrenamiento de geolocalizacion. Este documento tiene 11 secciones.
 ## **1. Encargados del Programa**
-**Director:** Alexander Wiler Quispe Rojas<br>
+**Director:** Alexander Quispe Rojas<br>
 **Instructor:** Anzony Quispe Rojas<br>
-**Instructor:** Antonio Arturo Altamirano Moya<br>
-**Instructor:** Kevin Basilio <br>
+**Instructor:** Antonio Altamirano Moya<br>
+**Instructor:** Kevin Basilio  <br>
 
 ## **2. Calendario**
 El programa comienza el miércoles 21 de octubre y finaliza el viernes 18  de diciembre. Las clases se realizarán virtualmente los dias miércoles y viernes, de 6:00 pm  a 8:00 pm , via plataforma zoom. El plan de estudios consta de 3 módulos:<br>
@@ -40,7 +40,7 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 | Fecha | Día | Horario | Tema | Subtema | 
 | ----- | --- | ------- | ---- |--------|
 | 2 - 10 | Miércoles | 6:00 - 8:00 | Listas |*Listas*.<br>- Indice De Las Listas.<br>- Rebanado.<br>*Manipulación De Listas.*<br>- Append.<br>- Insert.<br>- Remove.<br>- Pop.| 
-| 2 - 12 | Viernes | 6:00 - 8:00 | Diccionarios | ~~tuplas, conjuntos~~|
+| 2 - 12 | Viernes | 6:00 - 8:00 | Diccionarios | tuplas,conjuntos|
 
 
 ## **Semana 3**
