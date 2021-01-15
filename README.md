@@ -10,7 +10,7 @@
 **Instructor:** Alexander Quispe Rojas<br>
 **Instructor:** Anzony Quispe Rojas<br>
 **Instructor:** Antonio Altamirano Moya<br>
-**Instructor:** Kevin Basilio  <br>
+**Instructor:** Kevin Basilio Santiago <br>
 
 ## **2. Calendario**
 El programa comienza el miércoles 21 de octubre y finaliza el viernes 18  de diciembre. Las clases se realizarán virtualmente los dias miércoles y viernes, de 6:00 pm  a 8:00 pm , via plataforma zoom. El plan de estudios consta de 3 módulos:<br>
@@ -45,50 +45,50 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 ## **Semana 3**
 | Fecha | Día | Horario | Tema | Subtema |
 | ----- | --- | ------- | ---- |--------|
-| 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy |Numpy Subseting.<br>Numpy Arrays|
-| 2 - 19 | Viernes | 6:00 - 8:00 | Pandas | Series |
+| 2 - 17 | Miércoles |  6:00 - 8:00 | Numpy | Datatypes,Array creation|
+| 2 - 19 | Viernes | 6:00 - 8:00 | Numpy |  Indexing|
 
 
 ## **Semana 4**
-| Fecha | Día | Horario | Tema |
+| Fecha | Día | Horario | Tema | Subtema |
 | ----- | --- | ------- | ---- |
-| 2 - 24 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 2 - 26 | Viernes | 6:00 - 8:00 | *funciones* | 
+| 2 - 24 | Miércoles |  6:00 - 8:00 | Numpy |Métodos en Numpy|
+| 2 - 26 | Viernes | 6:00 - 8:00 | Pandas | Series,Creacion de Dataframe|
 
 
 ## **Semana 5**
 | Fecha | Día | Horario | Tema |
 | ----- | --- | ------- | ---- |
-| 3 - 03 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 3 - 05 | Viernes | 6:00 - 8:00 | *funciones* | 
+| 3 - 03 | Miércoles |  6:00 - 8:00 |  Pandas| Indexing| 
+| 3 - 05 | Viernes | 6:00 - 8:00 | Pandas | Métodos y estadísticos en DataFrame| 
 
 
 ## **Semana 6**
-| Fecha | Día | Horario | Tema |
-| ----- | --- | ------- | ---- |
-| 3 - 10 | Miércoles |  6:00 - 8:00 | *funciones* |
-| 3 - 12 | Viernes | 6:00 - 8:00 | *funciones* | 
+| Fecha | Día | Horario | Tema | Subtema |
+| ----- | --- | ------- | ---- | --- |
+| 3 - 10 | Miércoles |  6:00 - 8:00 | Funciones| if condition |
+| 3 - 12 | Viernes | 6:00 - 8:00 | Funciones | Loops |
 
 
 ## **Semana 7**
-| Fecha | Día | Horario | Tema |
-| ----- | --- | ------- | ---- |
-| 3 - 17 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 3 - 19 | Viernes | 6:00 - 8:00 | *mapas dinamicos* | 
+| Fecha | Día | Horario | Tema |Subtema|
+| ----- | --- | ------- | ---- |---|
+| 3 - 17 | Miércoles |  6:00 - 8:00 | Funciones |Definicion de función|
+| 3 - 19 | Viernes | 6:00 - 8:00 | Funciones| Proyecto| 
 
 
 ## **Semana 8**
-| Fecha | Día | Horario | Tema |
+| Fecha | Día | Horario | Tema | 
 | ----- | --- | ------- | ---- |
-| 3 - 24 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 3 - 26 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
+| 3 - 24 | Miércoles |  6:00 - 8:00 | Geolocalizacion y API's |
+| 3 - 26 | Viernes | 6:00 - 8:00 | Distancia Euclidiana|
 
 
 ## **Semana 9**
-| Fecha | Día | Horario | Tema |
-| ----- | --- | ------- | ---- |
-| 3 - 31 | Miércoles |  6:00 - 8:00 | *Geolocalizacion API* |
-| 4 - 02 | Viernes | 6:00 - 8:00 | *mapas dinamicos* |
+| Fecha | Día | Horario | Tema | 
+| ----- | --- | ------- | ---- | --- |
+| 3 - 31 | Miércoles |  6:00 - 8:00 | Mapas estáticos |
+| 4 - 02 | Viernes | 6:00 - 8:00 | Mapas dinámicos|
 
 
 Serán 9 semanas intensivas. Esperamos que su asistencia a conferencias más el tiempo de tarea sea un promedio de 60 horas por semana de trabajo.
