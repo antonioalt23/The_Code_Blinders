@@ -1,14 +1,13 @@
 # The_Code_Blinders
-Python Coding Bootcamp
-# Artificial Intelligence
-This repository aims to create teaching material on data science
-* Antonio Jupyter <br>
-## Geolocalizacion 
-Este repositorio contiene los servicios web de google plataforms a su aplicacion de python ; para asi poder geolocalizar un lugar , buscar direcciones o matrices de direcciones . Para lo cual necesitaremos los conceptos basicos python como son el uso de listas,pandas,numpy,diccionarios,loops y funciones. Asimismo, el manejo de github  y el uso de Jupyter.Para asi llegar a la geolocalizacion mediante el API de googlemaps y poder visulaizarlo mediantes mapas dinámicos.
 
-Este README.md sirve como programa y referencia para el campo de entrenamiento de geolocalizacion. Este documento tiene 11 secciones.
+# Python Coding Bootcamp
+
+## Objetivo
+[//]:<>(Este repositorio contiene los servicios web de google plataforms a su aplicacion de python ; para asi poder geolocalizar un lugar , buscar direcciones o matrices de) [//]:<>(direcciones . Para lo cual necesitaremos los conceptos basicos python como son el uso de listas,pandas,numpy,diccionarios,loops y funciones. Asimismo, el manejo de )
+[//]:<>(github  y el uso de Jupyter.Para asi llegar a la geolocalizacion mediante el API de googlemaps y poder visulaizarlo mediantes mapas dinámicos.)
+
 ## **1. Encargados del Programa**
-**Director:** Alexander Quispe Rojas<br>
+**Instructor:** Alexander Quispe Rojas<br>
 **Instructor:** Anzony Quispe Rojas<br>
 **Instructor:** Antonio Altamirano Moya<br>
 **Instructor:** Kevin Basilio  <br>
