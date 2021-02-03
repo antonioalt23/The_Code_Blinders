@@ -98,8 +98,9 @@ Indicaciones previas para el correcto desarrollo del curso :<br>
 1. El link de zoom de la clase será el siguiente para todas las clases [Link de zoom](https://zoom.us/j/4771998369?pwd=VFZXRlBSdHNES2JUcFRMenV1RVZhUT09) ,al cual podrán ingresar a partir de las 5:50 p.m.<br>
 2. La clase se desarrrollará de la siguiente manera:<br>
    * inicio :  6:05 p.m - 6:55 p.m
-   * break  :  6:55 p-m - 7:05 p.m 
+   * break  :  6:55 p.m - 7:05 p.m 
    * final  :  7:05 p.m - 7:55 p.m<br>
+La tolerancia de ingreso será de 10 minutos;luego de las 6:10 no se permitirá el acceso a la sesión del dia<br>   
 3. Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
 4. Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
 5. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
