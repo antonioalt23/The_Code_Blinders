@@ -93,3 +93,26 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 | 4 - 02 | Viernes | 6:00 - 8:00 | Mapas dinámicos|
 
 
+## **Indicaciones**
+Indicaciones previas para el correcto desarrollo del curso :<br>
+1. El link de zoom de la clase será el siguiente para todas las clases [Link de zoom](https://zoom.us/j/4771998369?pwd=VFZXRlBSdHNES2JUcFRMenV1RVZhUT09), al cual podrán ingresar a partir de las 5:50 p.m.<br>
+2. La clase se desarrrollará de la siguiente manera:<br>
+   * inicio :  6:05 p.m - 6:55 p.m
+   * break  :  6:55 p.m - 7:05 p.m 
+   * final  :  7:05 p.m - 7:55 p.m<br>
+3. La tolerancia de ingreso será de 10 minutos; luego de las 6:10 p.m no se permitirá el acceso a la sesión del dia<br>   
+4. Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
+5. Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
+6. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
+7. Presentar las tareas asignadas cada vez que sean requeridas.<br>
+
+## **Equipos de Trabajo**
+
+|Equipo 1|Equipo 2|Equipo 3|Equipo 4|
+|--------|--------|--------|--------|
+|Jackeline Calderón|Claudia Estrada	|Eunice Calle|	Jaime Castillo|
+|Jason Ampa|	Abigail Quispe	|Gerson Cornejo|	Paul Melo|
+|Marcel Salinas|	Alexander Tello |Miguel Espinoza	|Anthony Quispe|
+|Raul Sedano|Julio Osores|Betsy Laines|Cristhiand Olórtegui|
+|kelly Vilchez|Roberto Mendoza |Cesar Quino|	Rodrigo Rivarola|
+
