@@ -95,17 +95,16 @@ A continuación se muestra un calendario resumido de temas.<br> Los horarios má
 
 ## **Indicaciones**
 Indicaciones previas para el desarrollo correcto desarrollo del curso :<br>
-1.El link de zoom de la clase será el siguiente para todas las clases  ,al cual podrán ingresar a las 6:00 p.m<br>
+1.El link de zoom de la clase será el siguiente para todas las clases [Link](https://zoom.us/j/4771998369?pwd=VFZXRlBSdHNES2JUcFRMenV1RVZhUT09) ,al cual podrán ingresar a las 6:00 p.m<br>
 2.El inicio de la clase será a las 6:10 p.m ; por lo que habrá 10 minutos de tolerancia, luego de la cual no se permitirá el acceso a la clase del dia<br>
 3.La clase se desarrrollará de la siguiente manera:<br>
   * inicio :  6:10 p.m - 7:00 p.m
   * break  :  7:00 p-m - 7:05 p.m 
-  * final  :  7:05 p.m - 7:55 p.m
+  * final  :  7:05 p.m - 7:55 p.m<br>
 4.Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
 5.Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
-6.
-5.El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases<br>
-6.
+6.El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases<br>
+7.
 
 
 
