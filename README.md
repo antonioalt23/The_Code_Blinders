@@ -106,6 +106,13 @@ Indicaciones previas para el correcto desarrollo del curso :<br>
 6. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
 7. Presentar las tareas asignadas cada vez que sean requeridas.<br>
 
+## **Equipos de Trabajo**
 
-
+|Equipo 1|Equipo 2|Equipo 3|Equipo 4|
+|--------|--------|--------|--------|
+|Jackeline Calderón|Claudia Estrada	|Eunice Calle|	Jaime Castillo|
+|Jason Ampa|	Abigail Quispe	|Gerson Cornejo|	Paul Melo|
+|Marcel Salinas|	Alexander Tello |Miguel Espinoza	|Anthony Quispe|
+|Raul Sedano|Julio Osores|Betsy Laines|Cristhiand Olórtegui|
+|kelly Vilchez|Roberto Mendoza |Cesar Quino|	Rodrigo Rivarola|
 
