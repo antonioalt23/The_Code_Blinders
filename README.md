@@ -100,11 +100,11 @@ Indicaciones previas para el correcto desarrollo del curso :<br>
    * inicio :  6:05 p.m - 6:55 p.m
    * break  :  6:55 p.m - 7:05 p.m 
    * final  :  7:05 p.m - 7:55 p.m<br>
-La tolerancia de ingreso será de 10 minutos;luego de las 6:10 no se permitirá el acceso a la sesión del dia<br>   
-3. Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
-4. Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
-5. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
-6. Presentar las tareas asignadas cada vez que sean requeridas.<br>
+3. La tolerancia de ingreso será de 10 minutos;luego de las 6:10 no se permitirá el acceso a la sesión del dia<br>   
+4. Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
+5. Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
+6. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
+7. Presentar las tareas asignadas cada vez que sean requeridas.<br>
 
 
 
