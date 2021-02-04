@@ -104,15 +104,18 @@ Indicaciones previas para el correcto desarrollo del curso :<br>
 4. Es obligatorio mantener encendida la cámara durante toda la reunión.<br>
 5. Respecto a la participación en clase será mediante la opción que ofrece zoom para levantar la mano.<br>
 6. El número de faltas permitidas como máximo para lograr terminar el curso satisfactoriamente será de 03, luego de las cuales no se le permitirá el acceso a las clases.<br>
-7. Presentar las tareas asignadas cada vez que sean requeridas.<br>
+7. Repasar el material subido al repositorio<br>
+8. Presentar las tareas asignadas cada vez que sean requeridas.<br>
 
 ## **Equipos de Trabajo**
 
-|Equipo 1|Equipo 2|Equipo 3|Equipo 4|
+|Equipo 1 - Alex |Equipo 2 - Antonio|Equipo 3 - Kevin|Equipo 4 - Anzony|
 |--------|--------|--------|--------|
 |Jackeline Calderón|Claudia Estrada	|Eunice Calle|	Jaime Castillo|
 |Jason Ampa|	Abigail Quispe	|Gerson Cornejo|	Paul Melo|
 |Marcel Salinas|	Alexander Tello |Miguel Espinoza	|Anthony Quispe|
 |Raul Sedano|Julio Osores|Betsy Laines|Cristhiand Olórtegui|
 |kelly Vilchez|Roberto Mendoza |Cesar Quino|	Rodrigo Rivarola|
+||James Palma|||
+
 
