@@ -27,10 +27,15 @@ La version que ustedes **Uniran** al master branch no será la que envías cuand
 Sugerencias :
 1. Dar un nombre al PR un nombre asociado al nombre del branch, pero un poco más descriptivo. 
 2. Pueden agregar un label _**Work in Progres**_. 
-3. 
-
+3. Solo cuando hayan terminado de hacer todos los **commits** necesarios deberían solicitar o realziar el merge. 
 
 # Work Stage
+1. El autor hace los **commits** como siempre.
+2. El PR se actualizara con cada **commit** que ustedes realicen. 
+3. Sigue agregando **commits** hasta que hayan terminado la tarea. 
+
+
+
 
 
 
