@@ -62,3 +62,6 @@ Sugerencias :
 3. Siempre, siempre elimina el Branche! 
 4. Aún si quieres trabajar en una misma tarea en el futuro, elimina el branch y CREA DE NUEVO el branche. 
 5. Finalmente , cerrar el Issue! 
+
+
+Modificacion 1
