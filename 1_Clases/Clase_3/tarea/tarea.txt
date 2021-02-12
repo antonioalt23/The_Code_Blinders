@@ -1,0 +1,27 @@
+
+1. ¿Cuál es la diferencia entre algoritmo y programa?
+
+2. Las dos cosas que toda computadora puede hacer son:
+
+3. indicar VoF
+
+A) El conocimiento declarativo se refiere a declaraciones de hechos____
+
+B) El conocimiento imperativo se refiere a métodos de "cómo hacer"____
+
+c) En Una receta para deducir la raíz cuadrada implica adivinar un valor inicial, Sin otra receta para saber cómo elegir un número inicial, la computadora no puede generar uno por sí sola._____
+
+4. De un ejemplo de conocimiento declarativo e imperativo.
+
+5. Escriba un código que pida ingresar un número entero por teclado e imprima:
+- El identificador
+- El tipo de datos (entero, decimal,complejo, cadena , etc.)
+- El valor (el propio dato).
+
+6. Dado la cadena cad2= "tengo una yama que yama se llama y cuando me llama yama me llama" , escriba un código que convierta la cadena  cad2 en lista e imprima el número de elemntos de la lista.
+
+7. Escriba un código que bbusque la letra “t” en los seis primeros caracteres del string “Muerte a Manuel”
+
+8. Escriba un código que cuente el número de apariciones de la cad1 en cad2 si cad1= "yama" y cad2= "tengo una yama que yama se llama y cuando me llama yama me llama"
+
+
